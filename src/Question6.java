@@ -1,5 +1,5 @@
 public class Question6 {
-//    Given a square matrix, rotate by 90 in clock wise from top right as a reference, inplace.
+//    Given a square matrix, rotate by 90 in clock wise from top right as a reference, in-place.
     public static void main(String[] args) {
         int[][] array = new int[5][5];
         array[0][0] = 1;
