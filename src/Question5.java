@@ -1,5 +1,5 @@
 public class Question5 {
-//    Given a mat[n][n], find the transpose inplace given input mat[][] should update.
+//    Given a mat[n][n], find the transpose in-place given input mat[][] should update.
     public static void main(String[] args) {
         int[][] array = new int[3][3];
         array[0][0] = 3;
